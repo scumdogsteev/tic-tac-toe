@@ -3,7 +3,7 @@ by Scumdog Steev / Steve Myles
 
 This code is distributed as-is with no license.
 
-Project page:  http://steve.mylesandmyles.info/projects/tic-tac-toe/
+Project Home:  http://steve.mylesandmyles.info/projects/tic-tac-toe/
 
 * Version: 0.5a
 * Source last updated: 2004.04.19
