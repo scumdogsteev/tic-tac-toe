@@ -4,7 +4,7 @@ by Steev
 2004.04.19
 This needs work, but it can beat me.  Of course, I always sucked at Tic Tac Toe.
 
-This code is distributed with NO LICENSE.  If it messes up your computer, don't blame me.
+This code is distributed under the MIT License.
 
 This should compile in a Turbo Pascal compiler, if you can find one.}
  
